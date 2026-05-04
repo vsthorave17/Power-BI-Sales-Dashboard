@@ -1,3 +1,5 @@
+<img width="607" height="338" alt="image" src="https://github.com/user-attachments/assets/d4bfa0c8-765d-41e0-ac20-882ad5f82ab7" />
+
 # Power-BI-Sales-Dashboard
 This Power BI project delivers a comprehensive Sales & Profit Performance Dashboard designed to help stakeholders monitor business performance across products, categories, payment methods, time periods, and sales representatives.
 The dashboard highlights key KPIs such as Total Sales (4.14M), Total Profit (3.54M), Total Orders (3002), Average Order Value (1.38K), and Total Discounts Given (76.67K). It provides interactive insights into monthly sales vs. profit trends, category-wise performance, top and bottom products, sales representative contribution, and payment method distribution.
