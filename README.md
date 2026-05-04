@@ -23,5 +23,5 @@ Payment Method Distribution
 Dynamic Filtering & Slicers
 
 Screenshot and Demo links:
-
+Screenshot:https://github.com/vsthorave17/Power-BI-Sales-Dashboard/blob/3859585cf458a069cb940148cd6709171462ba1e/Sanpshot%20of%20dashboard.png
 
